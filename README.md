@@ -9,4 +9,4 @@ This is my first training repository
 + Unit 
 
 ### Desktop Client test
-We just clode to desktop
+We just clone to desktop
